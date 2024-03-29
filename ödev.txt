@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Bu bir başlık</h1>
+<p>Bu bir paragraf<br/>bu bir paragraf.</p>
+<hr>
+
+<h1> Başlık 1 </h1>
+<h2>Başlık 2 </h2>
+<h3>Başlık 3 </h3>
+
+ <br/> <!–-  alt satıra geçer -->
+ 
+ <hr> <!–-  yatay çizgi çeker -->
+ 
+ 
+ 
+ <!-- Resim  etiketi-->
+ 
+ <img src ="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.donanimhaber.com%2Fimages%2Fimages%2Fhaber%2F169991%2Fsrc%2Fchatgpt-icin-dall-e-3-aktiflestirildi-artik-gorsel-uretilecek169991_0.jpg&tbnid=lICfeGoxJP9ENM&vet=12ahUKEwjNqb39-ZeFAxVTv_0HHY74D5AQMygDegQIARBU..i&imgrefurl=https%3A%2F%2Fwww.donanimhaber.com%2Fchatgpt-icin-dall-e-3-aktiflestirildi-artik-gorsel-uretilecek--169991&docid=3ljdGKiv4fRLGM&w=1792&h=1024&q=g%C3%B6rsel&hl=tr&ved=2ahUKEwjNqb39-ZeFAxVTv_0HHY74D5AQMygDegQIARBU" alt="404"  widht="300" height"300" />
+ 
+ 
+ 
+  <!-- Link  etiketi-->
+  <a target=_blank href="https://www.google.com.tr/?hl=tr"> Yeni sayfada google</a>
+ <hr>
+ 
+ <!-- liste etiketi-->
+<ul>
+  <li>Süt
+    <ul>
+      <li>İnek Sütü</li> 
+      <li>Keçi Sütü</li>
+    </ul>  
+  </li> 
+  <li>Çay
+  	<ul>
+      <li>Yeşil</li> 
+      <li>Siyah</li>
+    </ul>  
+  </li>
+ <li>kahve
+  	<ul>
+    	<li>Sütlü</li>
+        <li>sütsüz</li>
+        </ul>
+        </li>
+        </ul>
+        <hr>
+   <!-- Tabele: tablo -->
+   <!-- thead: tablo başlığı -->
+   <!-- Tbody: tablo içeriği -->
+   <!-- Trow: tablo satırı oluşturur -->
+   <!-- Tdata: tablo içerikleri oluşturur -->
+ 
+   <table border="1">
+     <thead>
+     <tr> 
+     <th>başlık1</th>
+     <th>başlık2</th>
+     <th>başlık3</th>
+     </tr>
+     </thead>
+     <tbody> 
+     <tr>
+     <td>içerik1</td>
+     <td>içerik2</td>
+     <td>içerik3</td>
+     </tr>
+       <tr>
+     <td>içerik4</td>
+     <td>içerik5</td>
+     <td>içerik6</td>
+     </tr>
+       <tr>
+     <td>içerik7</td>
+     <td>içerik8</td>
+     <td>içerik6</td>
+     </tr>
+     </tbody>
+   </table>
+   
+   
+</body>
+</html>
+ <li>
+  <ul>
+ 
+</body>
+</html>
